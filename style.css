@@ -22,9 +22,9 @@
       outline: none;
       border: 0;
       font-size: 32px;
-      color: #d63031;
+      color: firebrick;
       text-align: right;
-      background-color: #636e72;
+      background-color: palevioletred;
  }
  .btns{
       display: flex;
@@ -41,8 +41,8 @@
    margin: 5px 2px;
    outline: none;
    cursor: pointer;
-   background-color: #111;
-   color: #ba55d3;
+   background-color: plum;
+   color: papayawhip;
    border: 0;
    font-size: 18px;
  }
